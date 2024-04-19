@@ -1,225 +1,314 @@
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Bold.woff2') format('woff2'),
-        url('HellixTRIAL-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Bold.woff2") format("woff2"),
+    url("HellixTRIAL-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-BoldItalic.woff2') format('woff2'),
-        url('HellixTRIAL-BoldItalic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-BoldItalic.woff2") format("woff2"),
+    url("HellixTRIAL-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-ExtraBold.woff2') format('woff2'),
-        url('HellixTRIAL-ExtraBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-ExtraBold.woff2") format("woff2"),
+    url("HellixTRIAL-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Black.woff2') format('woff2'),
-        url('HellixTRIAL-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Black.woff2") format("woff2"),
+    url("HellixTRIAL-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Black.woff2') format('woff2'),
-        url('HellixTRIAL-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Black.woff2") format("woff2"),
+    url("HellixTRIAL-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-ExtraBold.woff2') format('woff2'),
-        url('HellixTRIAL-ExtraBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-ExtraBold.woff2") format("woff2"),
+    url("HellixTRIAL-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Bold.woff2') format('woff2'),
-        url('HellixTRIAL-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Bold.woff2") format("woff2"),
+    url("HellixTRIAL-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Bold.woff2') format('woff2'),
-        url('HellixTRIAL-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Bold.woff2") format("woff2"),
+    url("HellixTRIAL-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Black.woff2') format('woff2'),
-        url('HellixTRIAL-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Black.woff2") format("woff2"),
+    url("HellixTRIAL-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Medium.woff2') format('woff2'),
-        url('HellixTRIAL-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Medium.woff2") format("woff2"),
+    url("HellixTRIAL-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-SemiBold.woff2') format('woff2'),
-        url('HellixTRIAL-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-SemiBold.woff2") format("woff2"),
+    url("HellixTRIAL-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-ExtraBold.woff2') format('woff2'),
-        url('HellixTRIAL-ExtraBold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-ExtraBold.woff2") format("woff2"),
+    url("HellixTRIAL-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-SemiBold.woff2') format('woff2'),
-        url('HellixTRIAL-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-SemiBold.woff2") format("woff2"),
+    url("HellixTRIAL-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Medium.woff2') format('woff2'),
-        url('HellixTRIAL-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Medium.woff2") format("woff2"),
+    url("HellixTRIAL-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Light.woff2') format('woff2'),
-        url('HellixTRIAL-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Light.woff2") format("woff2"),
+    url("HellixTRIAL-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Light.woff2') format('woff2'),
-        url('HellixTRIAL-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Light.woff2") format("woff2"),
+    url("HellixTRIAL-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-SemiBold.woff2') format('woff2'),
-        url('HellixTRIAL-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-SemiBold.woff2") format("woff2"),
+    url("HellixTRIAL-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Light.woff2') format('woff2'),
-        url('HellixTRIAL-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Light.woff2") format("woff2"),
+    url("HellixTRIAL-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Medium.woff2') format('woff2'),
-        url('HellixTRIAL-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Medium.woff2") format("woff2"),
+    url("HellixTRIAL-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hellix TRIAL';
-    src: url('HellixTRIAL-Regular.woff2') format('woff2'),
-        url('HellixTRIAL-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: "Hellix TRIAL";
+  src: url("HellixTRIAL-Regular.woff2") format("woff2"),
+    url("HellixTRIAL-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-LightItalic.woff2") format("woff2"),
+    url("IvyMode-LightItalic.woff") format("woff");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-Regular.woff2") format("woff2"),
+    url("IvyMode-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-Bold.woff2") format("woff2"),
+    url("IvyMode-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-BoldItalic.woff2") format("woff2"),
+    url("IvyMode-BoldItalic.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-Light.woff2") format("woff2"),
+    url("IvyMode-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-Italic.woff2") format("woff2"),
+    url("IvyMode-Italic.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-Thin.woff2") format("woff2"),
+    url("IvyMode-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-ThinItalic.woff2") format("woff2"),
+    url("IvyMode-ThinItalic.woff") format("woff");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-SemiBold.woff2") format("woff2"),
+    url("IvyMode-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Ivy Mode";
+  src: url("IvyMode-SemiBoldItalic.woff2") format("woff2"),
+    url("IvyMode-SemiBoldItalic.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
